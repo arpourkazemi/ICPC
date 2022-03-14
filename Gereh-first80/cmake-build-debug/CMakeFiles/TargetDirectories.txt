@@ -1,3 +1,0 @@
-E:/Programming/ICPC/Codes/ICPC-Codes/Gereh-first80/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/Programming/ICPC/Codes/ICPC-Codes/Gereh-first80/cmake-build-debug/CMakeFiles/Gereh_first80.dir
-E:/Programming/ICPC/Codes/ICPC-Codes/Gereh-first80/cmake-build-debug/CMakeFiles/edit_cache.dir
