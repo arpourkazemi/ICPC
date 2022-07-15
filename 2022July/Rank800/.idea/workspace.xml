@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07dab5ec-079d-4447-8a34-2377d77c02c6" name="Changes" comment="DZYLovesHash">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClosingTheGap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DZYLovesHash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DieRoll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hotelier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KeyRaces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoveTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MostUnstableArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VanyaAndCubes.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BteBRGCxC66BRltn8RzhtF4Ycm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/amirreza/IntelliJProjects/CodeForces/2022July/Rate-800",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DZYLovesHash">
+    <configuration name="ClosingTheGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClosingTheGap" />
+      <module name="Rank800" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DZYLovesHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZYLovesHash" />
+      <module name="Rank800" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="Rank800" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hotelier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hotelier" />
+      <module name="Rank800" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyRaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KeyRaces" />
+      <module name="Rank800" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DZYLovesHash" />
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.Hotelier" />
+        <item itemvalue="Application.KeyRaces" />
+        <item itemvalue="Application.ClosingTheGap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07dab5ec-079d-4447-8a34-2377d77c02c6" name="Changes" comment="" />
+      <created>1657729672401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657729672401</updated>
+      <workItem from="1657729673581" duration="925000" />
+      <workItem from="1657885891450" duration="17282000" />
+    </task>
+    <task id="LOCAL-00001" summary="MostUnstableArray">
+      <created>1657886612882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657886612882</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DieRoll">
+      <created>1657887320133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657887320133</updated>
+    </task>
+    <task id="LOCAL-00003" summary="VanyaAndCubes">
+      <created>1657895631287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657895631288</updated>
+    </task>
+    <task id="LOCAL-00004" summary="LoveTriangle">
+      <created>1657905144095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657905144095</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Cards">
+      <created>1657907324808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657907324808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ClosingTheGap">
+      <created>1657920083627</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657920083627</updated>
+    </task>
+    <task id="LOCAL-00007" summary="KeyRaces">
+      <created>1657920628372</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657920628372</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Hotelier">
+      <created>1657922615703</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657922615703</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Game">
+      <created>1657923487171</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657923487171</updated>
+    </task>
+    <task id="LOCAL-00010" summary="DZYLovesHash">
+      <created>1657923524472</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657923524472</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+    <MESSAGE value="MostUnstableArray" />
+    <MESSAGE value="DieRoll" />
+    <MESSAGE value="VanyaAndCubes" />
+    <MESSAGE value="LoveTriangle" />
+    <MESSAGE value="Cards" />
+    <MESSAGE value="ClosingTheGap" />
+    <MESSAGE value="KeyRaces" />
+    <MESSAGE value="Hotelier" />
+    <MESSAGE value="Game" />
+    <MESSAGE value="DZYLovesHash" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZYLovesHash" />
+  </component>
+</project>
